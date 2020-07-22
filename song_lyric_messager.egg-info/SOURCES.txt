@@ -1,0 +1,10 @@
+README.md
+setup.py
+song_lyric_messager/__init__.py
+song_lyric_messager/lyrics.txt
+song_lyric_messager/message_script.py
+song_lyric_messager.egg-info/PKG-INFO
+song_lyric_messager.egg-info/SOURCES.txt
+song_lyric_messager.egg-info/dependency_links.txt
+song_lyric_messager.egg-info/requires.txt
+song_lyric_messager.egg-info/top_level.txt
